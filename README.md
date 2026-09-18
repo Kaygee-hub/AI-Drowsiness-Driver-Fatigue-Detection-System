@@ -121,12 +121,12 @@ fatigue-related incidents.
 
 ## Author
 
-Built by **[Your Name]**.
+Built by **[Kgaogelo Lekhuleni]**.
 
 This project is part of my personal portfolio work in 4IR / mining
 technology and computer vision. I'm open to conversations about
 collaboration, licensing, or opportunities related to this work —
-reach out via [your email / LinkedIn here].
+reach out via [kgaogeloexcellent10111@gmail.com / www.linkedin.com/in/kgaogelo-lekhuleni-28430b366].
 
 ## License
 
