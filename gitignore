@@ -1,0 +1,20 @@
+# Downloaded model (fetched automatically on first run)
+face_landmarker.task
+
+# Generated logs
+fatigue_event_log.csv
+
+# Optional local branding (keep out unless you want it versioned)
+logo.png
+logo.jpg
+logo.jpeg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
