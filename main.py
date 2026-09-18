@@ -1,9 +1,9 @@
 # ============================================================
 # 4IR Mining Fleet | Driver Fatigue Telemetry
-# Copyright (c) 2026 [Your Name]. All Rights Reserved.
+# Copyright (c) 2026 [Kgaogelo Lekhuleni]. All Rights Reserved.
 # This code is shared publicly for portfolio/demonstration purposes only.
 # Not licensed for reuse, modification, or redistribution without
-# written permission. Contact: [your email / LinkedIn here]
+# written permission. Contact: [kgaogeloexcellent10111@gmail.com / www.linkedin.com/in/kgaogelo-lekhuleni-28430b366]
 # ============================================================
 
 import os
